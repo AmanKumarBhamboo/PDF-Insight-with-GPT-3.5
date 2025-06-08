@@ -29,9 +29,3 @@ Built with **Streamlit** for a simple and interactive web interface.
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/pdf-summarizer-gpt.git
-   cd pdf-summarizer-gpt
